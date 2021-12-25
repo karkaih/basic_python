@@ -4,5 +4,5 @@ import time
 
 while True :
     time.sleep(6)
-    pyautogui.typewrite('Mouaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah')
+    pyautogui.typewrite('')
     pyautogui.press('enter')
